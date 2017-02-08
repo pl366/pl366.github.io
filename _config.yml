@@ -35,7 +35,7 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: Pulkit
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -45,11 +45,11 @@ youtube: myyoutube
 # spotify: myspotify
 github: pl366
 # stackoverflow: 7044681/mystackoverflow
-quora: userquora
+quora: Pulkit
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: pl366@snu.edu.in
 
 authors:
     johndoe:
