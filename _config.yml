@@ -36,12 +36,12 @@ disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 facebook: Pulkit Luthra
-twitter: mytwitter
+# twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 linkedin: mylinkedin
-youtube: myyoutube
+# youtube: myyoutube
 # spotify: myspotify
 github: pl366
 # stackoverflow: 7044681/mystackoverflow
